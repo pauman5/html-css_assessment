@@ -226,12 +226,12 @@ td {
 }
 
 #team > div {
-  dislpay: flex;
+  display: flex;
   justify-content: space-evenly;
 }
 
-#team div > article {
-  dislpay: flex;
+#team > div > article {
+  display: flex;
   justify-content: center;
   flex-direction: column;
   align-items: center;
